@@ -10,5 +10,4 @@ public class SailingBootstrap {
     public static void main(String[] args) {
         SpringApplication.run(SailingBootstrap.class, args);
     }
-
 }
